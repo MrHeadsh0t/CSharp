@@ -1,0 +1,7 @@
+D:\Work\Code Learning\CSharp\CSharp\CSharp\bin\Debug\CSharp.exe.config
+D:\Work\Code Learning\CSharp\CSharp\CSharp\bin\Debug\CSharp.exe
+D:\Work\Code Learning\CSharp\CSharp\CSharp\bin\Debug\CSharp.pdb
+D:\Work\Code Learning\CSharp\CSharp\CSharp\obj\Debug\CSharp.csprojAssemblyReference.cache
+D:\Work\Code Learning\CSharp\CSharp\CSharp\obj\Debug\CSharp.csproj.CoreCompileInputs.cache
+D:\Work\Code Learning\CSharp\CSharp\CSharp\obj\Debug\CSharp.exe
+D:\Work\Code Learning\CSharp\CSharp\CSharp\obj\Debug\CSharp.pdb

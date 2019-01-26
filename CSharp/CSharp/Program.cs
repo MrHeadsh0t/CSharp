@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharp
 {
-    class Program
+    class Program : Staff
     {
         public static string name;
         public static string surname;
@@ -130,8 +130,8 @@ namespace CSharp
             Console.ForegroundColor = ConsoleColor.Yellow;
             Print(msg, (maxX / 2) - 1 - msg.Length, (maxY / 2) - 1);
             Pause();
-
             */
+            
             #endregion
 
         }
@@ -139,17 +139,6 @@ namespace CSharp
         static double distance(int x1, int y1, int x2, int y2)
         {
             return Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
-        }
-
-        static void Print(string msg, int x, int y)
-        {
-            Console.SetCursorPosition(x, y);
-            Console.Write(msg);
-        }
-
-        static void Pause()
-        {
-            Console.ReadLine();
         }
 
         public static void NameSurname()
